@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaojuwa.github.io</id>
+    <title>小橘哇</title>
+    <updated>2023-01-08T14:15:34.992Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaojuwa.github.io"/>
+    <link rel="self" href="https://xiaojuwa.github.io/atom.xml"/>
+    <subtitle>知识与你分享</subtitle>
+    <logo>https://xiaojuwa.github.io/images/avatar.png</logo>
+    <icon>https://xiaojuwa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 小橘哇</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>https://xiaojuwa.github.io/post/hello-gridea/</id>
+        <link href="https://xiaojuwa.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  这是我使用 <strong>Gridea</strong> ！  搭建的博客</p>
+]]></content>
+    </entry>
+</feed>
